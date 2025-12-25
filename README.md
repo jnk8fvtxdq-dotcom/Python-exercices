@@ -47,17 +47,6 @@ A fully-featured word guessing game with lives system.
 
 3. Run each notebook cell by cell to see the projects in action.
 
-## Project Structure
-
-```
-100-days-of-python/
-├── day1.ipynb          # Band Name Generator
-├── day2.ipynb          # Tip Calculator
-├── day3.ipynb          # Pizza Delivery System
-├── day4.ipynb          # Multiple projects
-├── Hangman.ipynb       # Hangman game
-├── words.txt           # Word list for Hangman
-└── README.md
 ```
 
 ## What I Learned
